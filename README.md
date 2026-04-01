@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=160&section=header" width="100%"/>
+</p>
+
+
 <div align="center">
 
 <img src="https://i.pinimg.com/originals/51/90/10/519010d9e4ef7697476839359e359676.gif" width="600" alt="Aesthetic GIF">
@@ -13,6 +18,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](SUA_URL_AQUI)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=000000&text=hello%20world!&animation=twinkling&fontSize=50&fontColor=FFFFFF" width="100%"/>
+</p>
 
 </div>
 
@@ -66,5 +75,5 @@ Sou um desenvolvedor focado em criar interfaces limpas e código eficiente. Acre
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" width="100%"/>
 </p>

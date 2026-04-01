@@ -20,39 +20,53 @@
 ## ☁️ Sobre Mim
 Sou um desenvolvedor focado em criar interfaces limpas e código eficiente. Acredito que a simplicidade é o último grau de sofisticação.
 
-* 🔭 Atualmente trabalhando em **[Projeto Atual]**
-* 🌱 Estudando **[Tecnologia que está aprendendo]**
+* 🔭 Atualmente trabalhando em **`muita coisa`**
+* 🌱 Estudando **`Flutter`**
 * ⚡ Curiosidade: Eu prefiro o modo escuro em absolutamente tudo.
 
 ---
 
-## 🛠 Tech Stack
+<div align="center">
 
-### **Frontend**
-![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)
+## Tech Stack
 
-### **Backend**
-![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="left" valign="top" width="300">
+      <br>
+      <h3>🎨 Frontend</h3>
+      <img src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+      <img src="https://img.shields.io/badge/tailwindcss-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+      <br><br>
+      <h3>🤖 AI</h3>
+      <img src="https://img.shields.io/badge/claude-000000?style=for-the-badge&logo=claude&logoColor=white" />
+      <img src="https://img.shields.io/badge/gemini-000000?style=for-the-badge&logo=googlegemini&logoColor=white" />
+      <br><br>
+      <h3>💻 IDE</h3>
+      <img src="https://img.shields.io/badge/vscode-000000?style=for-the-badge&logo=vscode&logoColor=white" />
+      <img src="https://img.shields.io/badge/antigravity-000000?style=for-the-badge&logo=antigravity&logoColor=white" />
+    </td>
+    <td align="center" valign="middle" width="400">
+      <img src="" width="200" alt="Center GIF">
+    </td>
+    <td align="right" valign="top" width="300">
+      <br>
+      <h3>⚙️ Backend</h3>
+      <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
+      <br><br>
+      <h3>📂 Organization</h3>
+      <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+      <img src="https://img.shields.io/badge/obsidian-000000?style=for-the-badge&logo=obsidian&logoColor=white" />
+      <br><br>
+      <h3>🖌️ Tools</h3>
+      <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-### **AI**
-![Claude Code](https://img.shields.io/badge/claude-000000?style=for-the-badge&logo=claude&logoColor=white)
-![Gemini CLI](https://img.shields.io/badge/gemini-000000?style=for-the-badge&logo=googlegemini&logoColor=white)
-
-### **Organization**
-![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Obsidian](https://img.shields.io/badge/obsidian-000000?style=for-the-badge&logo=obsidian&logoColor=white)
-
-###  **IDE**
-![VSCode](https://img.shields.io/badge/vscode-000000?style=for-the-badge&logo=vscode&logoColor=white)
-![Antigravity](https://img.shields.io/badge/antigravity-000000?style=for-the-badge&logo=antigravity&logoColor=white)
-
-###  **Tools**
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
-
----
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%"/>

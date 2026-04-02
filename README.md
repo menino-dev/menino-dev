@@ -37,7 +37,7 @@
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=System.aboutMe())](https://git.io/typing-svg) <br>
-Sou um desenvolvedor focado em criar **`design cleanc`** e **`código eficiente`**. Acredito que a **`simplicidade`** é o último grau de **`sofisticação`**. <br>
+Sou um desenvolvedor focado em criar **`design clean`** e **`código eficiente`**. Acredito que a **`simplicidade`** é o último grau de **`sofisticação`**. <br>
 Mais do que programar, eu desenvolvo soluções onde **`Agentes de IA`** e **`Automações`** fazem o trabalho pesado, deixando o caminho livre para o que realmente importa: a **`criatividade`**.
 
 <br>

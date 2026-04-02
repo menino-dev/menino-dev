@@ -100,6 +100,24 @@ Mais do que programar, eu desenvolvo soluções onde **`Agentes de IA`** e **`Au
   </tr>
 </table>
 
+<br>
+
+<div align="center">
+  
+  <img src="https://github.com/menino-dev/menino-dev/blob/main/m_logo.png?raw=true" width="50%"/>
+
+---
+
+  <p align="center">
+    <code> <i>"The player is the one who makes the story happen. I just provide the world for them to play in."</i> </code>
+  </p>
+
+---
+  
+</div>
+
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=140&section=footer" width="100%"/>
 </p>

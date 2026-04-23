@@ -45,7 +45,7 @@ Mais do que programar, eu desenvolvo soluções onde **`Agentes de IA`** e **`Au
 <br>
 
 * 💡 Focus: Automação, Agentes de IA e Design
-* 📚 Learning: <img height="16" width="16" src="https://cdn.simpleicons.org/flutter/white" /> Flutter
+* 📚 Learning: **`FastAPI`**, **`Go`** e **`Flutter`**
 * ☕ Fuel: Entusiasta de **`café`**
 * ⚡ Fact: Eu prefiro o **`black theme`** em absolutamente tudo.
 
